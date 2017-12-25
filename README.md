@@ -1,2 +1,0 @@
-# nagender
-Project about kafka.
